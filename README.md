@@ -173,6 +173,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
+- [FilePizza](https://file.pizza/) : Free peer-to-peer file transfers in your browser.
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Wit AI](https://wit.ai) : Natural Language for Developers
